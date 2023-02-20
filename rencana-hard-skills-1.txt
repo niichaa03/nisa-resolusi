@@ -1,0 +1,4 @@
+Rencana Nisa hardskills
+- Belajar kotlin dasar
+- Belajar kotlin intermediate
+- Belajar kotlin expert
