@@ -1,0 +1,8 @@
+Rencana Nisa hardskills
+- Belajar kotlin dasar
+    * variabel
+    * tipe data
+- Belajar kotlin intermediate
+    * OOP
+    * Struktur data
+- Belajar kotlin expert
