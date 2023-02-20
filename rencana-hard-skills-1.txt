@@ -4,7 +4,7 @@ Rencana Nisa hardskills
     * tipe data
       - number
       - string
-- Belajar kotlin intermediate
+- Belajar kotlin intermediate 1
     * OOP
       - pengenalan object
     * Struktur data
