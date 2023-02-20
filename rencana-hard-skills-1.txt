@@ -2,8 +2,7 @@ Rencana Nisa hardskills
 - Belajar kotlin dasar
     * variabel
     * tipe data
-      - number
-      - string
+    
 - Belajar kotlin intermediate 1
     * OOP
       - pengenalan object
